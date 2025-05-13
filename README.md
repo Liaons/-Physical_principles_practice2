@@ -48,8 +48,6 @@ https://colab.research.google.com/drive/1snzoHdVbRaAaYu51-cuZkuW5wXjJHRoB?usp=sh
 ## 📎 Referências
 Vermote, E., Tanré, D., Deuzé, J. L., Herman, M., & Morcette, J. J. (1997). Second Simulation of the Satellite Signal in the Solar Spectrum (6S).
 
-Documentação oficial do Py6S
-Modelo 6S original
 
 
 ## 👨‍💻 Autor
