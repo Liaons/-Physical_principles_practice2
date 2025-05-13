@@ -41,7 +41,8 @@ Clone este repositório:
 git clone https://github.com/Liaons/py6s-correcao-atmosferica.git
 cd py6s-correcao-atmosferica
 ```
-Abra e execute o notebook `Pratica_de_princípios_2.ipynb` em um ambiente Jupyter Notebook local ou Google Colab.
+Abra e execute o notebook `Pratica_de_princípios_2.ipynb` em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab asseguir:
+https://colab.research.google.com/drive/1snzoHdVbRaAaYu51-cuZkuW5wXjJHRoB?usp=sharing
 
 
 ## 📎 Referências
