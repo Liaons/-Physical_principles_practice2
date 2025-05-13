@@ -22,12 +22,13 @@ O notebook `Pratica_de_princípios_2.ipynb` apresenta:
 Para executar o notebook, é necessário ter o Python 3 instalado, além das seguintes bibliotecas:
 
 ```bash
-from Py6S import *
-import numpy as np
-import pandas as pd
-import glob
-from osgeo import gdal
-gdal.UseExceptions()
+!pip install py6s -q
+!apt install gfortran libgfortran5 -q
+!wget https://anaconda.org/conda-forge/sixs/1.1.3/download/linux-64/sixs-1.1.3-h2cc385e_2.tar.bz2 -q
+!tar -xvf sixs-1.1.3-h2cc385e_2.tar.bz2
+!rm sixs-1.1.3-h2cc385e_2.tar.bz2
+!chmod +x bin/sixs
+!ln bin/sixs /usr/local/bin/sixs
 ```
 
 ⚠️ Importante: O Py6S depende do executável do modelo 6S, que precisa ser instalado separadamente.
