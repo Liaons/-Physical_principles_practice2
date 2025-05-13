@@ -5,7 +5,6 @@ Este repositório contém um **tutorial prático** de como realizar **correção
 📌 Este material foi elaborado com base na aula ministrada pelos instrutores **Rejane Paulino**, **Daniel Maciel** e **Natália Rudorff**, durante a disciplina **Princípios Físicos do Sensoriamento Remoto**, no curso de pós-graduação do **INPE** (Instituto Nacional de Pesquisas Espaciais).
 
 
-
 ## 📘 Conteúdo
 
 O notebook `Pratica2_principios_fisicos.ipynb` apresenta:
@@ -51,9 +50,11 @@ Vermote, E., Tanré, D., Deuzé, J. L., Herman, M., & Morcette, J. J. (1997). Se
 
 
 
-## 👨‍💻 Autor
-Repositório desenvolvido por Henrique Leão \
+## 👨‍💻 Autores
+Repositório desenvolvido por **Henrique Leão** \
 Doutorando em Sensoriamento Remoto - INPE \
 GitHub: @Liaons
 
-## 📄 Licença
+Baseado no conteúdo das aulas de: \
+**Rejane Paulino**, **Daniel Maciel** e **Natália Rudorff**
+
