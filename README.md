@@ -8,7 +8,7 @@ Este repositório contém um **tutorial prático** de como realizar **correção
 
 ## 📘 Conteúdo
 
-O notebook `Pratica_de_princípios_2.ipynb` apresenta:
+O notebook `Pratica2_principios_fisicos.ipynb` apresenta:
 
 - ✨ Conceitos fundamentais de correção atmosférica.
 - 🛰️ Introdução ao modelo 6S.
@@ -42,7 +42,7 @@ Clone este repositório:
 git clone https://github.com/Liaons/py6s-correcao-atmosferica.git
 cd py6s-correcao-atmosferica
 ```
-Abra e execute o notebook `Pratica_de_princípios_2.ipynb` em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab asseguir:
+Abra e execute o notebook `Pratica2_principios_fisicos.ipynb` em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab asseguir:
 https://colab.research.google.com/drive/1snzoHdVbRaAaYu51-cuZkuW5wXjJHRoB?usp=sharing
 
 
