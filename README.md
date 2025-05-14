@@ -31,8 +31,6 @@ Para executar o notebook, é necessário ter o Python 3 instalado, além das seg
 ```
 
 ⚠️ Importante: O Py6S depende do executável do modelo 6S, que precisa ser instalado separadamente.
-Siga as instruções na documentação oficial:
-https://py6s.readthedocs.io/en/latest/installation.html#installing-the-6s-executable
 
 ## 🚀 Como usar
 Clone este repositório:
@@ -51,10 +49,10 @@ Vermote, E., Tanré, D., Deuzé, J. L., Herman, M., & Morcette, J. J. (1997). Se
 
 
 ## 👨‍💻 Autores
-Repositório desenvolvido por **Henrique Leão** \
-Doutorando em Sensoriamento Remoto - INPE \
-GitHub: @Liaons
-
 Baseado no conteúdo das aulas de: \
 **Rejane Paulino**, **Daniel Maciel** e **Natália Rudorff**
+
+Adaptação para Colab por **Henrique Leão** \
+Doutorando em Sensoriamento Remoto - INPE \
+GitHub: @Liaons
 
