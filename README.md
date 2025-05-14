@@ -15,32 +15,12 @@ O notebook `Pratica2_principios_fisicos.ipynb` apresenta:
 - 📉 Conversão de reflectância no topo da atmosfera (TOA) para reflectância de superfície.
 - 💻 Exemplos com código Python e aplicação com parâmetros reais.
 
-
-## 🧰 Requisitos
-
-Para executar o notebook, é necessário ter o Python 3 instalado, além das seguintes bibliotecas:
-
-```bash
-!pip install py6s -q
-!apt install gfortran libgfortran5 -q
-!wget https://anaconda.org/conda-forge/sixs/1.1.3/download/linux-64/sixs-1.1.3-h2cc385e_2.tar.bz2 -q
-!tar -xvf sixs-1.1.3-h2cc385e_2.tar.bz2
-!rm sixs-1.1.3-h2cc385e_2.tar.bz2
-!chmod +x bin/sixs
-!ln bin/sixs /usr/local/bin/sixs
-```
-
-⚠️ Importante: O Py6S depende do executável do modelo 6S, que precisa ser instalado separadamente.
-
 ## 🚀 Como usar
-Abra e execute o notebook `Pratica2_principios_fisicos.ipynb` em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab:
+Abra e execute o notebook em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab:
 https://colab.research.google.com/drive/1snzoHdVbRaAaYu51-cuZkuW5wXjJHRoB?usp=sharing
 
-Imagens para a prática de correção:
+Repositório com as imagens para a prática de correção:
 https://doi.org/10.5281/zenodo.15397592
-
-## 📎 Referências
-Vermote, E., Tanré, D., Deuzé, J. L., Herman, M., & Morcette, J. J. (1997). Second Simulation of the Satellite Signal in the Solar Spectrum (6S).
 
 ## 👨‍💻 Autores
 Baseado no conteúdo das aulas de: \
