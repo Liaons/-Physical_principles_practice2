@@ -7,7 +7,7 @@ Este repositório contém um **tutorial prático** de como realizar **correção
 
 ## 📘 Conteúdo
 
-O notebook `Pratica2_principios_fisicos.ipynb` apresenta:
+O notebook apresenta:
 
 - ✨ Conceitos fundamentais de correção atmosférica.
 - 🛰️ Introdução ao modelo 6S.
