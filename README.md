@@ -36,11 +36,11 @@ Para executar o notebook, é necessário ter o Python 3 instalado, além das seg
 Abra e execute o notebook `Pratica2_principios_fisicos.ipynb` em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab:
 https://colab.research.google.com/drive/1snzoHdVbRaAaYu51-cuZkuW5wXjJHRoB?usp=sharing
 
+Imagens para a prática de correção:
+https://doi.org/10.5281/zenodo.15397592
 
 ## 📎 Referências
 Vermote, E., Tanré, D., Deuzé, J. L., Herman, M., & Morcette, J. J. (1997). Second Simulation of the Satellite Signal in the Solar Spectrum (6S).
-
-
 
 ## 👨‍💻 Autores
 Baseado no conteúdo das aulas de: \
