@@ -2,7 +2,7 @@
 
 Este repositório contém um **tutorial prático** de como realizar **correção atmosférica de imagens de sensoriamento remoto** utilizando a biblioteca [Py6S](https://py6s.readthedocs.io/en/latest/), uma interface Python para o modelo radiativo 6S.
 
-📌 Este material foi elaborado com base na aula ministrada pelos instrutores **Rejane Paulino**, **Daniel Maciel** e **Natália Rudorff**, durante a disciplina **Princípios Físicos do Sensoriamento Remoto**, no curso de pós-graduação do **INPE** (Instituto Nacional de Pesquisas Espaciais).
+📌 Este material foi elaborado com base na aula ministrada pelos instrutores **Rejane Paulino**, **Daniel Maciel** e **Natália Rudorff**, durante a disciplina **Princípios Físicos**, no curso de pós-graduação em Sensoriamento Remoto do **INPE** (Instituto Nacional de Pesquisas Espaciais).
 
 
 ## 📘 Conteúdo
@@ -33,13 +33,7 @@ Para executar o notebook, é necessário ter o Python 3 instalado, além das seg
 ⚠️ Importante: O Py6S depende do executável do modelo 6S, que precisa ser instalado separadamente.
 
 ## 🚀 Como usar
-Clone este repositório:
-
-```bash
-git clone https://github.com/Liaons/py6s-correcao-atmosferica.git
-cd py6s-correcao-atmosferica
-```
-Abra e execute o notebook `Pratica2_principios_fisicos.ipynb` em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab asseguir:
+Abra e execute o notebook `Pratica2_principios_fisicos.ipynb` em um ambiente Jupyter Notebook local ou utilize o codigo no Google Colab:
 https://colab.research.google.com/drive/1snzoHdVbRaAaYu51-cuZkuW5wXjJHRoB?usp=sharing
 
 
