@@ -30,3 +30,5 @@ Adaptação para Colab por **Henrique Leão** \
 Doutorando em Sensoriamento Remoto - INPE \
 GitHub: @Liaons
 
+## 📄 Citação:
+Leão, H., Paulino, R., Rudorff, N., & Maciel, D. (2025). Code: Correção atmosférica usando Py6s. GitHub. https://doi.org/10.5281/zenodo.15411877
